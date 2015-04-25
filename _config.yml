@@ -1,0 +1,6 @@
+name:        Praqma-test web
+highlighter: pygments
+exclude:     [README.md]
+timezone:    Europe/Copenhagen
+markdown:    kramdown
+permalink:   none
